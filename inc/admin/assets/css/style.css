@@ -1,0 +1,27 @@
+.msbr-upgrade [data-repeater-create] {
+	pointer-events: none;
+}
+/* sidebar */
+.msbr-add-wordpress-review {
+	display: block;
+	padding: 10px;
+	border: 1px solid #111111;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 400;
+	text-decoration: none;
+	color: #111111;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+.msbr-add-wordpress-review:hover {
+	color: #111111;
+}
+.msbr-add-wordpress-review img {
+	height: 20px;
+}
